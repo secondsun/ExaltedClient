@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MooksCommon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ExaltedClient/libs/MooksCommon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

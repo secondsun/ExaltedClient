@@ -1,0 +1,10 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372392127000 801 82ac4b3d5cc3afdaa3a4cb49b9e2d63cf78852c0 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/res/all/debug/values-v11/values.xml
+1372542563000 1748 c52763ab08ba91dce9d275c038eabcfb9d1da463 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/res/all/debug/values/values.xml
+1372392127000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1372392127000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1372392127000 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1372392127000 1833 6558f0c97910e51b4ac5458f1ddd4ffdd652c0ce /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/res/all/debug/layout/activity_fullscreen.xml
+1372392127000 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/res/all/debug/drawable-xhdpi/ic_launcher.png

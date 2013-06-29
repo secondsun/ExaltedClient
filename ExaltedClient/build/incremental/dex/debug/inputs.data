@@ -1,0 +1,25 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372392127000 519 4637b7a654374a3d96fb1ee1ed1db4d5d9becb1e /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/R$id.class
+1372392113000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/libs/android-support-v4.jar
+1372392127000 321 e0fd3e2b8d1ba2833d9bd5a375c24423ea0902f9 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/util/SystemUiHider$OnVisibilityChangeListener.class
+1372392127000 1085 b9490cc097e18ae35468eaa404369266259e165f /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/FullscreenActivity$2.class
+1372392127000 807 7ee2fe44492bf9525511edba58744aee6a814e50 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/R.class
+1372392127000 478 a43a4d434c180d7d48d21bb80b042a3a9af978d5 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/R$attr.class
+1372392127000 666 c6a024985cab785be86dd095ecba41c2a453a46d /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/R$styleable.class
+1372392127000 2025 bbdf384cbfb4193e50836482d12fc9cbcf3eb77e /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/FullscreenActivity$1.class
+1372392127000 687 8edaa9c890bfc621a3a9108da6149bca1ed7d357 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/util/SystemUiHider$1.class
+1372392127000 2140 c11e989f690587eb37b0d1501fc7be13865c07b1 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/util/SystemUiHider.class
+1372392127000 369 c115969d041b9ceee150c76364e733e04c8991ff /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/BuildConfig.class
+1372392127000 626 b79eca2aa8e4c01a3bdad5d0604d87d17a3d8d41 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/R$style.class
+1372392127000 1519 a48f89e3086b7e7bc1ad471d10eba5d4176382a3 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/util/SystemUiHiderBase.class
+1372392127000 436 6d571255bf100dec9d7c2c574189cc8bcde00e49 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/R$color.class
+1372392127000 2319 e1a5b003b9f93f908dba1b299410592727cd570b /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/util/SystemUiHiderHoneycomb.class
+1372392127000 1001 39f3ddbfb9e8f98e0c131ef46ddd4b813d3c423b /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/FullscreenActivity$3.class
+1372392127000 507 5c13aa38c00f7b674897c4018989d26039bc5811 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/R$string.class
+1372392127000 2119 dbc4501aabb44932ed97a29e6dbabfb62796f4a8 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/util/SystemUiHiderHoneycomb$1.class
+1372392127000 910 e63fb4ad88438d8fae1fac8d9740e03a3fda80bb /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/FullscreenActivity$4.class
+1372392127000 443 ac34efcc5b878467977d9d120fc362595fd2cb92 /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/R$drawable.class
+1372392127000 3202 1e4c8cf2cdb36efd2e11e69f6f96c53df0126f5f /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/FullscreenActivity.class
+1372392127000 445 952d01727322fd7824db71eab17c5a1f935847fb /home/summers/AndroidStudioProjects/ExaltedClientProject/ExaltedClient/build/classes/debug/net/saga/android/exaltedclient/R$layout.class
